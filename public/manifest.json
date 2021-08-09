@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Money counter",
+  "name": "This app helps to count your money",
   "icons": [
     {
       "src": "favicon.ico",
