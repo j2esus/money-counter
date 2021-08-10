@@ -6,14 +6,7 @@ import 'bootswatch/dist/quartz/bootstrap.min.css';
 
 ReactDOM.render(
   <React.StrictMode>
-    <div className="navbar navbar-expand-lg navbar-dark bg-primary mb-3">
-      <div class="container">
-        <div class="navbar-brand">Money counter</div>
-      </div>
-    </div>
-    <div class="container">
-      <App/>
-    </div>
+    <App/>
   </React.StrictMode>,
   document.getElementById('root')
 );
